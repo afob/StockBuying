@@ -6,7 +6,7 @@ namespace StockBuying
     {
         public void Buy(string stockTicker, int quantity)
         {
-            throw new Exception("You are not connected to the stock exchange!");
+            throw new System.Exception("You are not connected to the stock exchange!");
         }
     }
 }

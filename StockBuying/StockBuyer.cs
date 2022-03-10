@@ -12,7 +12,7 @@ namespace StockBuying
         //TODO: implement this method
         public void PriceTick(string stockTicker, decimal price)
         {
-            throw new NotImplementedException();
+            throw new System.NotImplementedException();
         }
     }
 }
