@@ -1,0 +1,8 @@
+Business Requirement:
+
+The StockBuyer class must be implemented to meet the following requirement:
+
+Whenever the PriceTick method is called, if the price of the stock is less than 5 (for any stock ticker), then purchase
+one of that stock from the StockExchange.
+
+Write appropriate unit tests in the StockBuyerTests class.
